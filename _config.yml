@@ -1,0 +1,24 @@
+title:            Tropical History
+email:            andreina@ucsb.edu
+description:      Welcome to my Website!
+author:           Andreina Soto
+baseurl:          "" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
+url:              "http://AndreinaSoto.github.io" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+
+# Social Profiles
+twitter_username:  SeguNina
+github_username:   AndreinaSoto
+facebook_username:
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
