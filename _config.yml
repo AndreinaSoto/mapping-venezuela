@@ -1,9 +1,9 @@
-title:            Tropical History
+title:            Mapping Early-Modern Venezuela
 email:            andreina@ucsb.edu
-description:      Welcome to my Website!
+description:      A digital humanities project about Venezuela
 author:           Andreina Soto
 baseurl:          "" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
-url:              "http://AndreinaSoto.github.io" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
+url:              "http://mapping-venezuela.github.io" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
 
 collections:
   pages:
