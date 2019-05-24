@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About Me
-description: Professional profile
-background: '/img/posts/blog-page.jpeg'
+title: About the Project
+description:
+background: 'img/Mapa_Venezuela_1600.jpg'
 ---
-<img src="/img/posts/Profile-pic.jpg" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
 
-I am a History PhD student at **UCSB**. My research examines forms of religiosity among people of African descent in early-modern Venezuela. I am particularly interested in how these forms of religiosity expressed in local concerns about death and funerary practices.  
+**Mapping Early-Modern venezuela** is a digital visualization project about the making of the Province of Venezuela through the lens of the Catholic built environment  created during the European colonization. Missionaries, religious orders, and the secular church were actively involved in the early processes of colonization of the region to redefine its boundaries, change the landscape, and integrate indigenous and African populations into European models. Mapping and registering this process can help us understand better how colonization worked on the ground, how civic and religious communities engaged in the quest to create towns, villages, and settlements, and how this new landscape came hand-in-hand with the attempts to impose, physically and spiritually, Catholic practices. Using different primary and secondary sources, this project is locating in space and time all the religious temples, missions, *encomiendas*, towns, cities, and villages built between the late-sixteenth and the early-eighteenth centuries.
 
-As part of [Neogranadina](https://www.neogranadina.org/), I work as research assistant in the development of a digital collection of archival materials about the New Kingdom Granada, I also handle the supervision of the volunteers who help us in the processing of the digitized volumes.
-
-I created this website to share some of my work in history and the digital humanities. On my blog you can also read some of my reflections about the themes I am passionate about.
+The main feature of this project is the interactive map [link], which users can use as an entry point to the "Sacred Spaces database," which contains information about different temples and locations established in the region under throughout the colonial period. Each one of the points displayed in the map provides descriptive information about the temples and the settlement. In addition users can access to more background about these locations and know more how the foundations of these places took place. hist users can also find descriptive information about the temples, access to transcribed primary sources, and resources for researching and studying the history of the Catholic religion in Venezuela. We hope this website can be a valuable educational tool about religious practices, the history of architecture, and the geography of the region!
