@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Project
+title: The Project
 description:
 background: '/img/Mapa_Venezuela_1600.jpg'
 ---
@@ -8,11 +8,13 @@ background: '/img/Mapa_Venezuela_1600.jpg'
 
 During the European expansion in the Americas, religious actors enacted policies on the ground that set the basis for the territorial organizations of the province and the practice of Catholicism. Missionaries, religious orders, and the secular church were also actively involved in the evangelization of the indigenous and African population, which required to change the landscape and redefine the space based on Catholic and European patterns. This was not possible without creating settlements and religious temples, which were ever present in the layouts of the colonial towns and cities.<a href="#section1">[1]</a>  
 
-<img src="/img/posts/caracas.jpg" style="display: block; width: 400px; margin-right: auto; margin-left: auto;" />
-<p class="caption123">View of El Ávila from the Universidad Central de Venezuela. One of the last pictures I took before leaving Caracas, 2014.</p>
+<img src="/img/Mapbox-example.png" style="display: block; width: 400px; margin-right: auto; margin-left: auto;" />
+![Primer plano de Caracas](/Websites/mapping-venezuela.github.io/img/posts/Caracas1578.jpg)
+<p class="caption123">First plan of the city of Caracas by Juan de Pimentel, 1578. Part of the *Carta al Rey. Relación geográfica y descripción de la Provincia de Caracas y Gobernación de Venezuela” realizado por Juan de Pimentel. Este mapa representa el actual casco historico de la ciudad*. Source: Academia Nactional de la Historia, Hemeroteca, sección mapas y planos.</p>
 
 
-<img src="/img/posts/Caracas1578.jpg" style="display: block; width: 400px; margin-right: auto; margin-left: auto;" />
+<!-- <img src="/img/posts/caracas.jpg" style="display: block; width: 400px; margin-right: auto; margin-left: auto;" />
+
 <p class="caption123">First plan of the city of Caracas by Juan de Pimentel, 1578. Part of the *Carta al Rey. Relación geográfica y descripción de la Provincia de Caracas y Gobernación de Venezuela” realizado por Juan de Pimentel. Este mapa representa el actual casco historico de la ciudad*. Source: Academia Nactional de la Historia, Hemeroteca, sección mapas y planos.</p>
 
 The region known today as Venezuela was the product of these European impositions which sought to unify the region into administrative, military, and religious boundaries.

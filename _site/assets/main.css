@@ -339,3 +339,10 @@ p.caption123 {
   margin-right: auto;
   margin-left: auto;
   font-size: 90%; }
+
+p.id {
+  display: block;
+  width: 410px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 90%; }

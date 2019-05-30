@@ -1,0 +1,34 @@
+Author	Popple, Henry
+Date	1733
+Short Title	A Map of the British Empire in America. (Sheet 19).
+Publisher	Willm. Henry Toms & R.W. Seale.
+Publisher Location	London
+Type	Atlas Map
+Obj Height cm	44
+Obj Width cm	68
+Scale 1	2,000,000
+Note	Northern South America is shown. Section also includes the Windward Islands. Uncolored.
+Reference	Cumming 216; Streeter 676; Lowery 337-8; Cumming & Wallis Introductory Notes to Margary's Popple reprint.
+Country	Guyana
+Country	Venezuela
+Full Title	A Map of the British Empire in America with the French and Spanish Settlements adjacent thereto. by Henry Popple. (Sheet 19).
+List No	2874.021
+Series No	22
+Engraver or Printer	Baron, B.
+Engraver or Printer	Lempriere, C.
+Engraver or Printer	Toms, W.H.
+Publication Author	Popple, Henry
+Pub Date	1733
+Pub Title	A Map of the British Empire in America with the French and Spanish Settlements adjacent thereto. by Henry Popple. C. Lempriere inv. & del. B Baron Sculp. To the Queen's Most Excellent Majesty This Map is most humbly Inscribed by Your Majesty's most Dutiful, most Obedient, and most Humble Servant Henry Popple. London Engrav'd by Willm. Henry Toms & R.W. Seale, 1733. (index map) ... W.H. Toms Sculp.
+Pub Reference	Cumming 216; Streeter 676; Lowery 337-8; Cumming & Wallis Introductory Notes to Margary's Popple reprint.
+Pub Note	1st edition, 1st state. King George II copy. Howes P481; Sabin 64140; Schwartz & Ehrenberg 151; Winsor V, p82. The first state of the large map and the index map (see Cumming & Wallis for Margary reprint and Cumming 216) in that the pages are unnumbered, no credits below the neat line on sheet 17 or the title sheet, and Toms & Seale on Sheet 20. The binding is full red morocco with gold tooling at the edges and the coat of arms of King George II in gold on the front and back covers; the spine is stamped with "Popple's Atlas" in gilt. This copy was sold to the family I acquired it from by Francis Edwards in 1929/30 - a copy of Edward's 1929 catalogue entry is tipped into the front of the book. Tooley, Mapping America p 316, says "A copy (of the Popple Map) bound in red morocco for George II sold in 1930..." Lacks the contents sheets and the half sheet #4 (provided in expert facsimile). The index map is in full color while the map sheets are uncolored. The first large scale map of America and the most accurate at the time. Covens and Mortier published a six sheet edition in 1740 (Lowery). Lowery, Howes and Phillips incorrectly list Seale as "Searle." Howes mentions a later edition by Jefferys, but I can find no record of it.
+Pub List No	2874.000
+Pub Type	National Atlas
+Pub Maps	21
+Pub Height cm	53
+Pub Width cm	41
+Image No	2874021
+Download 1	<a href=http://www.davidrumsey.com/rumsey/download.pl?image=/D0007/2874021.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Popple, Henry
+Collection	Rumsey Collection
