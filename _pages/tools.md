@@ -8,8 +8,9 @@ This project started with the goal of locating in time and place the formation o
 
 For this, it was necessary to create a dataset extracting information from different primary and secondary sources related to the religious history and the territorial expansion in the region during the colonial period. For this, Graziano Gasparini's book *Templos Coloniales de Venezuela* was a major [resource](link sources).
 
-![First Dataset](/posts/Sample-dataset.png)
+<img src="/mapping-venezuela/img/posts/Sample-dataset.png" style="display: block; width: 600px; margin-right: auto; margin-left: auto;" />
+<p class="caption123">Sample of the first dataset created for the project.</p>
 
 The map was created using [Mapbox Studio](https://www.mapbox.com/mapbox-studio), a user-friendly application to edit maps and work with the datasets. The program was very versatile since it allows to create a base map without modern labels (name of cities, country and state boundaries, etc.) and using a clean canvas.
 
-The features of the program show the vector tiles (data) in different formats and selecting specific variables from the dataset, either names and/or dates to show variations in time and space. We used Mapbox GL JS [link] a JavaScript library that uses WebGL to transform the original map style to make the vector tiles interactive.
+The features of the program show the vector tiles (data) in different formats and selecting specific variables from the dataset, either names and/or dates to show variations in time and space. We used [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/) a [JavaScript](https://www.javascript.com/) library that uses WebGL to transform the original map style to make the vector tiles interactive.
