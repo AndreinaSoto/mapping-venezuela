@@ -27,7 +27,7 @@ Access our resource [link] page for bibliographical information about Venezuela�
 
 We hope this website can be a valuable educational tool about religious practices, the history of architecture, and the geography of the region!
 
-<p>[1]Dan Stanislawski, “Early Spanish Town Planning in the New World,” Geographical Review 37, 1 (1947): 94-95, accessed October 10, 2014, http://www.jstor.org/stable/211364.</p>
-<p>[2]M. Pérez Vila, “Estudio Preliminar,” Actas del Cabildo Eclesiástico de Caracas, Compendio Cronológico (Caracas, Academia Nacional de la Historia, 1963), accessed on 2019-05-23 http://archive.org/details/actasdelcabildoe01cate; Manuel Donis Ríos, “La Iglesia como factor unificador del territorio venezolano,” Recursos Ucabistas, 1996, accessed on 2019-05-23 http://w2.ucab.edu.ve/tl_files/sala_de_prensa/recursos/ucabista/jun96/hist.html; Graziano Gasparini, Templos Coloniales de Venezuela (Caracas: Ediciones “A,” 1959).</p>
-<p>[3]José Marcial Ramos Guédez, Contribución a la historia de las culturas negras en Venezuela colonial (Caracas: Instituto Municipal de la Alcadía de Caracas, 2001), 57.</p>
-<p>[4] Ramos Guédez, Contribución, 30 </p>
+<p id="section1">[1]Dan Stanislawski, “Early Spanish Town Planning in the New World,” Geographical Review 37, 1 (1947): 94-95, accessed October 10, 2014, http://www.jstor.org/stable/211364.</p>
+<p id="section2">[2]M. Pérez Vila, “Estudio Preliminar,” Actas del Cabildo Eclesiástico de Caracas, Compendio Cronológico (Caracas, Academia Nacional de la Historia, 1963), accessed on 2019-05-23 http://archive.org/details/actasdelcabildoe01cate; Manuel Donis Ríos, “La Iglesia como factor unificador del territorio venezolano,” Recursos Ucabistas, 1996, accessed on 2019-05-23 http://w2.ucab.edu.ve/tl_files/sala_de_prensa/recursos/ucabista/jun96/hist.html; Graziano Gasparini, Templos Coloniales de Venezuela (Caracas: Ediciones “A,” 1959).</p>
+<p id="section3">[3]José Marcial Ramos Guédez, Contribución a la historia de las culturas negras en Venezuela colonial (Caracas: Instituto Municipal de la Alcadía de Caracas, 2001), 57.</p>
+<p id="section4">[4] Ramos Guédez, Contribución, 30 </p>
