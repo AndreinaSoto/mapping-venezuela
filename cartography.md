@@ -1,0 +1,31 @@
+---
+layout: page
+title: Some maps
+description:
+background: '/img/posts/britishemp.jpg'
+---
+visual gallery of the evolution of the territory in Venezuela, with emphasis in religious institutions.
+
+Might add some links to temples pages.
+
+<div id="wax-gallery-qatar-container" class="wax-gallery-container full-width">
+  <div class="wax-inline-container">
+    <div id="wax-gallery-qatar" class="wax-gallery"><div class="gallery-item manuscript all"><a href="https://minicomp.github.io/wax/qatar/obj1/"><div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg" alt="The Dala" il="" al-khayrat="" of="" al-juzuli'=""><div class="overlay"><p class="info">The Dala'il al-Khayrat of al-Juzuli</p>
+    </div>
+
+    </div></a></div><div class="gallery-item portrait all"><a href="https://minicomp.github.io/wax/qatar/obj10/"><div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg" alt="Portrait of Hasan " ali="" mirza="" shuja="" al-saltana'=""><div class="overlay"><p class="info">Portrait of Hasan 'Ali Mirza Shuja al-Saltana</p></div></div></a></div><div class="gallery-item portrait all"><a href="https://minicomp.github.io/wax/qatar/obj11/"><div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj11/full/250,/0/default.jpg" alt="Portrait of Sheikh Ali Mirza"><div class="overlay"><p class="info">Portrait of Sheikh Ali Mirza</p></div></div></a></div><div class="gallery-item manuscript all"><a href="https://minicomp.github.io/wax/qatar/obj12/"><div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj12_00/full/250,/0/default.jpg" alt="Excerpt from " the="" book="" of="" horses'="" (فَرَس="" نامه="" [رسالة="" في="" الخيول)'=""><div class="overlay"><p class="info">Excerpt from 'The Book of Horses' (فَرَس نامه [رسالة في الخيول)</p></div></div></a></div><div class="gallery-item manuscript all"><a href="https://minicomp.github.io/wax/qatar/obj2/"><div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg" alt="Sulwan Al-Muta" a'=""><div class="overlay"><p class="info">Sulwan Al-Muta'a</p></div></div></a></div><div class="gallery-item map all"><a href="https://minicomp.github.io/wax/qatar/obj3/"><div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg" alt="Map of the World"><div class="overlay"><p class="info">Map of the World</p></div></div></a></div><div class="gallery-item manuscript all"><a href="https://minicomp.github.io/wax/qatar/obj4/"><div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg" alt="Faridun crosses the River Dijla, fol. 33v"><div class="overlay"><p class="info">Faridun crosses the River Dijla, fol. 33v</p></div></div></a></div><div class="gallery-item panel all"><a href="https://minicomp.github.io/wax/qatar/obj5/"><div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg" alt="Panel from Iran"><div class="overlay"><p class="info">Panel from Iran</p></div></div></a></div><div class="gallery-item manuscript all"><a href="https://minicomp.github.io/wax/qatar/obj6/"><div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg" alt="Diwan of Jami Manuscript"><div class="overlay"><p class="info">Diwan of Jami Manuscript</p></div></div></a></div><div class="gallery-item manuscript all"><a href="https://minicomp.github.io/wax/qatar/obj7/"><div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg" alt="Page from the Shahnama"><div class="overlay"><p class="info">Page from the Shahnama</p></div></div></a></div><div class="gallery-item panel all"><a href="https://minicomp.github.io/wax/qatar/obj8/"><div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg" alt="Silk Tapestry Depicting the story of Leila and Majnun"><div class="overlay"><p class="info">Silk Tapestry Depicting the story of Leila and Majnun</p></div></div></a></div><div class="gallery-item portrait all"><a href="https://minicomp.github.io/wax/qatar/obj9/"><div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg" alt="Portrait of Fath " ali="" shah'=""><div class="overlay"><p class="info">Portrait of Fath 'Ali Shah</p></div></div></a></div></div>
+  </div>
+</div>
+
+
+this works! but does not click or anything.
+<img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj11/full/250,/0/default.jpg" alt="Portrait of Sheikh Ali Mirza"><div class="overlay"><p class="info">Portrait of Fath 'Ali Shah</p></div></div></a></div></div>
+
+<img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg" alt="Silk Tapestry Depicting the story of Leila and Majnun">
+<div class="hovereffect">&lt;img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg" alt="Silk Tapestry Depicting the story of Leila and Majnun=""&gt;<div class="overlay"><p class="info">Silk Tapestry Depicting the story of Leila and Majnun</p>
+    </div>
+
+    </div>
+
+
+<div class="hovereffect"><img class="img-responsive gallery-thumb" src="https://minicomp.github.io/wax/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg" alt="Page from the Shahnama"><div class="overlay"><p class="info">Page from the Shahnama</p></div></div>

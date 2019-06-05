@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Author
+title: The Author
 description:
 background: '/img/Mapa_Venezuela_1600.jpg'
 ---
@@ -8,4 +8,4 @@ background: '/img/Mapa_Venezuela_1600.jpg'
 
 In addition to her research, Andreína is specializing in public history and the use of of digital tools for the preservation, analysis, and diffusion of historical materials. She is part of the team behind [Neogranadina](https://neogranadina.org/).
 
-**Contact:** andreina@ucsb.edu 
+**Contact:** andreina@ucsb.edu andreina@neogranadina.org

@@ -340,9 +340,9 @@ p.caption123 {
   margin-left: auto;
   font-size: 90%; }
 
-p.id {
+p id.section1 {
   display: block;
   width: 410px;
   margin-right: auto;
   margin-left: auto;
-  font-size: 70%; }
+  font-size: 65%; }
