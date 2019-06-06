@@ -35,7 +35,7 @@ map.on('click', function(e) {
 
   var popup = new mapboxgl.Popup({ offset: [0, -15] })
     .setLngLat(feature.geometry.coordinates)
-    .setHTML('<h3>' + feature.properties.Church + '</h3><p>' + feature.properties.Location + '</p><p>' + feature.properties.Date + '</p>')
+    .setHTML('<h3>' + feature.properties.Church + '</h3><p>' + feature.properties.Location + '</p><p>' + feature.properties.Date + '</p><p>' + feature.observations. + '</p><p>' + feature.history. + '</p><p>' + feature.source. + '</p>')
     .setLngLat(feature.geometry.coordinates)
     .addTo(map);
 });
