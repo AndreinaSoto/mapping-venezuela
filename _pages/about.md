@@ -4,7 +4,7 @@ title: The Project
 description:
 background: '/img/Mapa_Venezuela_1600.jpg'
 ---
-**Sacred Spaces of Early-Modern** venezuela is a digital project about the history of Venezuela through the lens of the religious built environment during the early modern period (1500-1800).
+**Sacred Spaces** is a digital project about the history of Venezuela through the lens of the religious built environment during the early modern period (1500-1800).
 
 Since the European expansion to the Americas, religious actors enacted policies on the ground that set the basis for the territorial organizations of the province and the practice of Catholicism. Missionaries, religious orders, and the secular church were actively involved in the evangelization of the indigenous and African population, which required to change the landscape and redefine the space based on Catholic and European patterns. This was not possible without creating settlements and religious temples, which were ever present in the layouts of the colonial towns and cities.<a href="#section1">[1]</a>  
 
@@ -20,7 +20,7 @@ Even though Catholic institutions in the Province of Venezuela started with a li
 
 All this activity increased the establishments of town across the region, most of them expanding and surviving until today. You can learn more about the establishment of the Catholic institutions in Venezuela [**here**](/mapping-venezuela/church)
 
-Mapping and registering this process can help us understand better how colonization worked on the ground and the strategic role of the Catholic church in this process of imperial expansion. It also reflects how civic and religious communities engaged in the quest to create settlements and a new landscape that came hand-in-hand with the attempts to impose, physically and spiritually, Catholic practices.
+Mapping and registering this process can help us understand better how colonization worked on the ground and the strategic role of the Catholic church in the imperial expansion. It also reflects how civic and religious communities engaged in the quest to create settlements and a new landscape that came hand-in-hand with the attempts to impose, physically and spiritually, Catholic practices.
 
 The main feature of this project is the [**interactive map**](index.html), which you can use as an entry point to the [Sacred Spaces directory] (link). The entries on the map contain information about different temples and locations established in the region since the arrival of Europeans in the sixteenth century and prior to the process of independence in the early-eighteenth century.
 

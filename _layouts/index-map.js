@@ -18,13 +18,13 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiYW5kcmVpbmFzb3RvcyIsImEiOiJjanJoMWk3ZGUwNzl3NGF1N2o1OGRraXhvIn0.77PWcsUnK1LpBInYCK-phA';
 const map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/andreinasotos/cjvq8874g1zwa1co805szx0ve',
+  style: 'mapbox://styles/andreinasotos/cjwvpvajr0jid1cqcmo86ry6j',
   center: [-66.509205, 10.873788],
   zoom: 5.8
 });
 map.on('click', function(e) {
   var features = map.queryRenderedFeatures(e.point, {
-    layers: ['sacred-spaces-venezuela'] // replace this with the name of the layer
+    layers: ['sacred-spaces-venezuela-new'] // replace this with the name of the layer
   });
 
   if (!features.length) {

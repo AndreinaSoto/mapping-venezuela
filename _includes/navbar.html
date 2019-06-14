@@ -54,31 +54,28 @@ To add new links, follow the example below (and activate it it by removing the a
   <!--              <a class="dropdown-item" href="#">Something else here</a><!-- Item in drop-down menu -->
 <!--            </div> <!-- ...To here -->
 
-
             <!--About the Project -->
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About the Project</a><!-- Text of a clickable drop-down menu button -->
                     <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="{{"/about" | relative_url }}">The Project</a><!--Item in drop-down menu-->
-                        <a class="dropdown-item" href="{{"//tools" | relative_url }}">Digital History</a><!-- Item in drop-down menu -->
-                        <a class="dropdown-item" href="{{"//gasparini" | relative_url }}">Graziano Gasparini</a><!-- Item in drop-down menu -->
+                        <a class="dropdown-item" href="{{"/tools" | relative_url }}">Digital History</a><!-- Item in drop-down menu -->
+                        <a class="dropdown-item" href="{{"/gasparini" | relative_url }}">Graziano Gasparini</a><!-- Item in drop-down menu -->
                         <a class="dropdown-item" href="{{"/decisions" | relative_url }}">Challenges and Limitations</a><!-- Item in drop-down menu -->
-                        <a class="dropdown-item" href="{{"/author" | relative_url }}">The Author</a><!-- Item in drop-down menu -->
+                        <a class="dropdown-item" href="{{"/author" | relative_url }}">Project Creator</a><!-- Item in drop-down menu -->
                       <!--   <div class="dropdown-divider"></div><!--This indicates that a thin line should be inserted, in case you want to differentiate the items-->
                       <!--   <a class="dropdown-item" href="{{"/Contributors" | relative_url }}">Contributors</a><!--Item in drop-down menu-->
                     </div> <!-- ...To here -->
 
-                    <!--Sacred Spaces -->
-                        <li class="nav-item dropdown">
-                          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sacred Spaces</a><!-- Text of a clickable drop-down menu button -->
-                            <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="{{"/church2" | relative_url }}">The Catholic Church in Venezuela</a><!--Item in drop-down menu-->
-                                <a class="dropdown-item" href="{{"/cartography" | relative_url }}">Cartography</a><!-- Item in drop-down menu -->
-                                <a class="dropdown-item" href="{{"/sacred-spaces" | relative_url }}">Sacred Spaces Database</a><!-- Item in drop-down menu -->
-                                <a class="dropdown-item" href="{{"/coro" | relative_url }}">Santa Ana de Coro</a>
-                                <!-- Item in drop-down menu -->
-                              <!--   <a class="dropdown-item" href="{{"/Contributors" | relative_url }}">Contributors</a><!--Item in drop-down menu-->
-                            </div> <!-- ...To here -->
+                    <!--Chronology -->
+                    <li class="nav-item"> <!-- A normal, non clickable menu button -->
+                      <a class="nav-link" href="{{"/chronology" | relative_url }}">Chronology</a></li>
+                   <!-- ...To here -->
+
+                   <!--Database -->
+                   <li class="nav-item"> <!-- A normal, non clickable menu button -->
+                     <a class="nav-link" href="{{"/posts" | relative_url }}">Sacred Spaces</a></li>
+                  <!-- ...To here -->
 
                             <!--Resources -->
                                 <li class="nav-item dropdown">
@@ -90,7 +87,14 @@ To add new links, follow the example below (and activate it it by removing the a
                                       <!--   <a class="dropdown-item" href="{{"/Contributors" | relative_url }}">Contributors</a><!--Item in drop-down menu-->
                                     </div> <!-- ...To here -->
 
-
+                                    <!--Acknowledgements -->
+                                        <li class="nav-item dropdown">
+                                          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Credits</a><!-- Text of a clickable drop-down menu button -->
+                                            <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
+                                                <a class="dropdown-item" href="{{"/author" | relative_url }}">Project Creator</a><!-- Item in drop-down menu -->
+                                                <a class="dropdown-item" href="{{"/acknowledgements" | relative_url }}">Acknowledgements</a><!-- Item in drop-down menu -->
+                                              <!--   <a class="dropdown-item" href="{{"/Contributors" | relative_url }}">Contributors</a><!--Item in drop-down menu-->
+                                            </div> <!-- ...To here -->
 
                   <!-- Contact - not a dropdown menu-->
                         <!-- </li>

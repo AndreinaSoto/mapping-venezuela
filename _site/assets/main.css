@@ -354,3 +354,10 @@ p.timeline {
 p.container {
   font-family: Garamond;
   font-size: 20; }
+
+p.body {
+  font-family: Arial;
+  font-size: 15; }
+
+p.container.right {
+  font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace; }
