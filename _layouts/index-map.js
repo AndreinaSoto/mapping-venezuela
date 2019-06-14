@@ -18,13 +18,13 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiYW5kcmVpbmFzb3RvcyIsImEiOiJjanJoMWk3ZGUwNzl3NGF1N2o1OGRraXhvIn0.77PWcsUnK1LpBInYCK-phA';
 const map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/andreinasotos/cjwvpvajr0jid1cqcmo86ry6j',
+  style: 'mapbox://styles/andreinasotos/cjwwh3cif1wyu1cpgvmja5n2z',
   center: [-66.509205, 10.873788],
   zoom: 5.8
 });
 map.on('click', function(e) {
   var features = map.queryRenderedFeatures(e.point, {
-    layers: ['sacred-spaces-venezuela-new'] // replace this with the name of the layer
+    layers: ['dataset-interactive-map'] // replace this with the name of the layer
   });
 
   if (!features.length) {
@@ -35,7 +35,7 @@ map.on('click', function(e) {
 
   var popup = new mapboxgl.Popup({ offset: [0, -15] })
     .setLngLat(feature.geometry.coordinates)
-    .setHTML('<h3>' + feature.properties.Church + '</h3><p>' + feature.properties.Location + '</p><p>' + feature.properties.Date + '</p><p>' + feature.observations. + '</p><p>' + feature.history. + '</p><p>' + feature.source. + '</p>')
+    .setHTML('<h3>' + feature.properties.Name + '</h3><p>' + feature.properties.Date + '</p><p>' + feature.properties.Location + '</p><p>' + feature.properties.History + '</p>)
     .setLngLat(feature.geometry.coordinates)
     .addTo(map);
 });
