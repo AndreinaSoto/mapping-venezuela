@@ -10,4 +10,4 @@ In addition to her research, Andreína is specializing in public history and the
 
 Comments and questions? Contact me!
 
-**Contact:** andreina@ucsb.edu andreina@neogranadina.org
+**Contact:** <a href = "mailto: andreina@ucsb.edu">andreina@ucsb.edu</a>, <a href = "mailto: andreina@neogranadina.org">andreina@neogranadina.org</a>

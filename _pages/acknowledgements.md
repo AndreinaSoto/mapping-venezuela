@@ -9,5 +9,3 @@ While I have produced all the digital content, most of the historical informatio
 Their works have made possible to keep track of the cultural heritage of Venezuela. To all of you, thank you!
 
 Special thanks to **Prof. Juan Cobo Betancourt** for providing assistance in the design of the website!
-
-**Contact:** <a href = "mailto: andreina@ucsb.edu">andreina@ucsb.edu</a>, <a href = "mailto: andreina@neogranadina.org">andreina@neogranadina.org</a>

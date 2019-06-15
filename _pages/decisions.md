@@ -2,7 +2,7 @@
 layout: page
 title: Decisions, decisions...
 description:
-background: '/img/Map-big.png'
+background: 'img/Map-Big.png'
 ---
 While the dataset is comprehensive there are important limitations in terms of chronology and location.
 
